@@ -3,7 +3,7 @@ import chardet
 
 # Путь до корневой директории проекта
 project_dir = 'path/to/your/project'  # замените на ваш путь
-пше
+
 # Извлечение имени проекта из пути
 project_name = os.path.basename(os.path.normpath(project_dir))
 
